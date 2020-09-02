@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+.red {
+    color: lightcoral;
+}
+
+.blue {
+    color: rgb(0, 90, 146);
+}
+
+.green {
+    color: lightseagreen;
+}
+
+.purple {
+    color: rgb(204, 40, 204);
+}
