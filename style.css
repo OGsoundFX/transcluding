@@ -17,3 +17,7 @@ body {
 .purple {
     color: rgb(204, 40, 204);
 }
+
+.background {
+    background-color: black;
+}
